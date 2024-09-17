@@ -82,8 +82,9 @@ Exemplo de caso de senha forte (cumprimento de todos os requisitos mínimos): <b
 <img src="https://imgur.com/Dk89Y9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
-___
+_______
 
-*Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante.*
+<p align = "center">
+<i> Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante. </i> </p>
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
