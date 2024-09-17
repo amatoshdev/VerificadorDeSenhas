@@ -40,7 +40,7 @@ ___
 
 <h2> Habilidades adquiridas: </h2>
 
-Esse projeto, de modo geral, me proporcionou uma maior visão e compreensão acerca da importância da criação de senhas fortes e imprevisíveis em situações que demandam maior segurança, pois é mais difícil de descobrí-las intuitivamente ou decodificá-las, eventualmente, de algum modo. Consolidei, por meio da prática, o conhecimento acerca da construção de operadores ternários (if-else em sintaxe de apenas uma linha); da utilização do método chatAt(); da versatilidade da estrutura de repetição for.
+Esse projeto, de modo geral, me proporcionou uma maior visão e compreensão acerca da importância da criação de senhas fortes e imprevisíveis em situações que demandam maior segurança, pois é mais difícil de descobrí-las intuitivamente ou decodificá-las, eventualmente, de algum modo. Consolidei, por meio da prática, o conhecimento acerca da construção de operadores ternários (if-else em sintaxe de apenas uma linha); da utilização do método charAt(); da versatilidade da estrutura de repetição for.
 
 <h2> Habilidades requisitadas: </h2>
 
