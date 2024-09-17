@@ -28,7 +28,7 @@ ___
 
 Para capturar as entradas do usuário, foi usada a classe Scanner.
 
-Toda a estrutura do programa está inserida dentro de uma estrutura de repetição do-while com uma condição booleana chamada "ok" que é iniciada com o valor "false", pois enquanto a senha não cumprir os requisitos mínimos a senha é inválida; ou seja, "false". Enquanto a entrada do usuário não for uma senha que cumpra com os requisitos a condição não estará satisfeita e a estrutura de repetição do-while continuará rodando o programa. Caso a entrada inserida pelo usuário cumpra com os requisitos necessários para uma senha forte e segura o valor do boolean "ok" será invertido para "true" e o programa finalizado.
+Toda a estrutura do programa está inserida dentro de uma estrutura de repetição do-while com uma condição do tipo boolean chamada "ok" que é iniciada com o valor "false", pois enquanto a senha não cumprir os requisitos mínimos a senha é inválida; ou seja, "false". Enquanto a entrada do usuário não for uma senha que cumpra com os requisitos a condição não estará satisfeita e a estrutura de repetição do-while continuará rodando o programa. Caso a entrada inserida pelo usuário cumpra com os requisitos necessários para uma senha forte e segura, o valor do boolean "ok" será invertido para "true" e o programa finalizado.
 
 Para verificar a quantidade de caracteres inseridos de cada requisito necessário da senha foi utilizado a estrutura de repetição for, com condicionais if's em seu interior para limitar cada interação com sua especificidade e o método charAt() para passar pela entrada do usuário e verificar cada um dos caracteres individualmente.
 
